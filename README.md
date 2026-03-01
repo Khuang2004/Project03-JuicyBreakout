@@ -12,9 +12,8 @@ Juicy Breakout is a simple brick breaking game where the player moves a paddle t
 - Add sound effects & Add music
 - Break the elements when they are hit
 - Add a comet trail to the ball
-- Add eyesballs
-- Make the eyes follow the action
-- You may also add shaders.
+- Add eyeballs and they follow the ball, following the action
+- Added Shaders
 
 ## Future Development
 - Could add more moving elements, like the bricks start moving down, which can increase the diffculty.
